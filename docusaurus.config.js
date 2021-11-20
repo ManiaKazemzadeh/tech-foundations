@@ -15,7 +15,10 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'jamesbelchamber', // Usually your GitHub org/user name.
   projectName: 'tech-foundations', // Usually your repo name.
-
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'no'],
+  },
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -72,6 +75,10 @@ const config = {
             docId: 'security/index',
             position: 'left',
             label: 'Security',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
           },
         ],
       },

@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.linuxSidebar.category.Introduction to Linux": {
+    "message": "Introduction to Linux",
+    "description": "The label for category Introduction to Linux in sidebar linuxSidebar"
+  }
+}
