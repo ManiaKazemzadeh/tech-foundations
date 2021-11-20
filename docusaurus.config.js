@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Generation Tech Foundations',
+  title: 'Tech Foundations',
   tagline: 'An Integrated Tech Industry Foundations Course',
   url: 'https://jamesbelchamber.github.io',
   baseUrl: '/tech-foundations/',
@@ -24,7 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/jamesbelchamber/tech-foundations/edit/main/docs/',
+          editUrl: 'https://github.com/jamesbelchamber/tech-foundations/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -78,7 +78,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [],
-        copyright: `Copyright © ${new Date().getFullYear()} James Belchamber. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} James Belchamber, except emojis (designed by OpenMoji under CC-BY-SA). Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
