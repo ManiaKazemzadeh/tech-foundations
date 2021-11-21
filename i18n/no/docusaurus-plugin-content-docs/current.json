@@ -6,5 +6,29 @@
   "sidebar.linuxSidebar.category.Introduction to Linux": {
     "message": "Introduction to Linux",
     "description": "The label for category Introduction to Linux in sidebar linuxSidebar"
+  },
+  "sidebar.networkingSidebar.category.Linking Computers": {
+    "message": "Linking Computers",
+    "description": "The label for category Linking Computers in sidebar networkingSidebar"
+  },
+  "sidebar.networkingSidebar.category.The Internet Protocol": {
+    "message": "The Internet Protocol",
+    "description": "The label for category The Internet Protocol in sidebar networkingSidebar"
+  },
+  "sidebar.computingSidebar.category.Binary Code": {
+    "message": "Binary Code",
+    "description": "The label for category Binary Code in sidebar computingSidebar"
+  },
+  "sidebar.programmingSidebar.category.Introduction to Programming": {
+    "message": "Introduction to Programming",
+    "description": "The label for category Introduction to Programming in sidebar programmingSidebar"
+  },
+  "sidebar.programmingSidebar.category.Control Flow": {
+    "message": "Control Flow",
+    "description": "The label for category Control Flow in sidebar programmingSidebar"
+  },
+  "sidebar.securitySidebar.category.User Security": {
+    "message": "User Security",
+    "description": "The label for category User Security in sidebar securitySidebar"
   }
 }
