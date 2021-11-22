@@ -1,6 +1,6 @@
 {
   "A primer in what Linux is, what Open Source Software is, and how to operate a Linux-based Operating System.": {
-    "message": "En enkel forklaring av hva Linux er, hva åpen kildekode programvare er, and hvordan man bruken et Linux-basert operativsystem."
+    "message": "En enkel forklaring av hva Linux er, hva åpen kildekode programvare er, og hvordan man bruken et Linux-basert operativsystem."
   },
   "Introducing fundamental concepts common to all programming languages, as well as key tools used in software development.": {
     "message": "Introduserer grunnleggende konsepter som er felles for alle programmeringsspråk, samt nøkkelverktøy som brukes i programvareutvikling."
@@ -197,5 +197,11 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tagger",
     "description": "The title of the tag list page"
+  },
+  "Tech Foundations": {
+    "message": "Informasjonsteknologi grunnkurs"
+  },
+  "An Integrated Tech Industry Foundations Course": {
+    "message": "Et integrert kurs i informasjonsteknologi"
   }
 }
