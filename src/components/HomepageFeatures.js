@@ -29,7 +29,7 @@ const FeatureList = [
     Svg: require('../../static/img/abacus.svg').default,
     description: (
       <Translate>
-        A chance to finally undersand basic concepts that underpin
+        A chance to finally understand basic concepts that underpin
         modern computing.
       </Translate>
     ),
@@ -50,7 +50,7 @@ const FeatureList = [
     description: (
       <Translate>
         An eye-opening peek into what computer security really means,
-        instilling a baseline of security consciouness.
+        instilling a baseline of security consciousness.
       </Translate>
     ),
   },
