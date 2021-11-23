@@ -1,222 +1,222 @@
 {
   "A primer in what Linux is, what Open Source Software is, and how to operate a Linux-based Operating System.": {
-    "message": "En enkel forklaring av hva Linux er, hva åpen kildekode programvare er, og hvordan man bruken et Linux-basert operativsystem."
+    "message": "Uma cartilha sobre o que é Linux, o que é software de código aberto e como operar um sistema operacional baseado em Linux."
   },
   "Introducing fundamental concepts common to all programming languages, as well as key tools used in software development.": {
-    "message": "Introduserer grunnleggende konsepter som er felles for alle programmeringsspråk, samt nøkkelverktøy som brukes i programvareutvikling."
+    "message": "Apresentando conceitos fundamentais comuns a todas as linguagens de programação, bem como as principais ferramentas usadas no desenvolvimento de software."
   },
   "A chance to finally understand basic concepts that underpin modern computing.": {
-    "message": "Sjansen til å endelig forstå grunnleggende konsepter som underbygger moderne databehandling."
+    "message": "A chance de finalmente entender os conceitos básicos que sustentam a computação moderna."
   },
   "A rapid deconstruction of the Internet Protocol Suite, which underpins the internet and most other modern networks.": {
-    "message": "En rask dekonstruksjon av Internet Protocol Suite, som underbygger internettet og de fleste andre moderne nettverk."
+    "message": "Uma rápida desconstrução do Internet Protocol Suite, que sustenta a Internet e a maioria das outras redes modernas."
   },
   "An eye-opening peek into what computer security really means, instilling a baseline of security consciousness.": {
-    "message": "Et øyeåpnende innblikk i hva datasikkerhet egentlig betyr, som skaper en grunnleggende sikkerhetsbevissthet."
+    "message": "Uma espiada reveladora sobre o que a segurança do computador realmente significa, incutindo uma base de consciência de segurança."
+  },
+  "Tech Foundations": {
+    "message": "Fundações de tecnologia"
+  },
+  "An Integrated Tech Industry Foundations Course": {
+    "message": "Um Curso Integrado de Fundamentos da Indústria de Tecnologia"
   },
   "theme.NotFound.title": {
-    "message": "Side Ikke Funnet",
+    "message": "Página não encontrada",
     "description": "The title of the 404 page"
   },
   "theme.NotFound.p1": {
-    "message": "Vi kunne ikke finne det du lette etter.",
+    "message": "Não foi possível encontrar o que você está procurando.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Ta kontakt med eieren av nettstedet som koblet deg til den opprinnelige nettadressen og la dem få vite at lenken deres er ødelagt.",
+    "message": "Entre em contato com o proprietário do site que lhe trouxe para cá e lhe informe que o link está quebrado.",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Lukk",
+    "message": "Fechar",
     "description": "The ARIA label for close button of announcement bar"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Gå tilbake til toppen",
+    "message": "Volte para o topo",
     "description": "The ARIA label for the back to top button"
   },
   "theme.blog.archive.title": {
-    "message": "Arkiver",
+    "message": "Arquivo",
     "description": "The page & hero title of the blog archive page"
   },
   "theme.blog.archive.description": {
-    "message": "Arkiver",
+    "message": "Arquivo",
     "description": "The page & hero description of the blog archive page"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Bloggliste-navigering",
+    "message": "Navegação da página de listagem do blog",
     "description": "The ARIA label for the blog pagination"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Nyere innlegg",
+    "message": "Conteúdo mais novo",
     "description": "The label used to navigate to the newer blog posts page (previous page)"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Eldre innlegg",
+    "message": "Conteúdo mais antigo",
     "description": "The label used to navigate to the older blog posts page (next page)"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "Ett minutt lesing|{lesetid} min lesing",
+    "message": "Leitura de um minuto|Leitura de {readingTime} minutos",
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.post.readMore": {
-    "message": "Les mer",
+    "message": "Leia Mais",
     "description": "The label used in blog post item excerpts to link to full blog posts"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blogginnlegg-navigering",
+    "message": "Navegação da página de postagem do blog",
     "description": "The ARIA label for the blog posts pagination"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Nyere innlegg",
+    "message": "Postagem mais nova",
     "description": "The blog post button label to navigate to the newer/previous post"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Eldre innlegg",
+    "message": "Postagem mais antiga",
     "description": "The blog post button label to navigate to the older/next post"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Navigering av siste blogginnlegg",
+    "message": "Blog recent posts navigation",
     "description": "The ARIA label for recent posts in the blog sidebar"
   },
   "theme.blog.post.plurals": {
-    "message": "Ett innlegg|{antall} innlegger",
+    "message": "Uma postagem|{count} postagens",
     "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} merket med \"{merkelapp}\"",
+    "message": "{nPosts} marcadas com \"{tagName}\"",
     "description": "The title of the page for a blog tag"
   },
   "theme.tags.tagsPageLink": {
-    "message": "Se alle tags",
+    "message": "Ver todas os Marcadores",
     "description": "The label of the link targeting the tag list page"
   },
   "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Kopier koden til utklippstavlen",
+    "message": "Copiar código para a área de transferência",
     "description": "The ARIA label for copy code blocks button"
   },
   "theme.CodeBlock.copied": {
-    "message": "Kopiert",
+    "message": "Copiado",
     "description": "The copied button label on code blocks"
   },
   "theme.CodeBlock.copy": {
-    "message": "Kopiert",
+    "message": "Copiar",
     "description": "The copy button label on code blocks"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Utvid sidefeltet",
+    "message": "Expandir painel lateral",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Utvid sidefeltet",
+    "message": "Expandir painel lateral",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Dokumentasjonssider-navigering",
+    "message": "Navigação das páginas de documentação",
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
-    "message": "Forrige",
+    "message": "Anterior",
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.paginator.next": {
-    "message": "Neste",
+    "message": "Próxima",
     "description": "The label used to navigate to the next doc"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Skjul sidefeltet",
+    "message": "Fechar painel lateral",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Skjul sidefeltet",
+    "message": "Fechar painel lateral",
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "Ett dokument merket|{antall} dokumenter merket",
+    "message": "Um documento selecionado|{count} documentos selecionados",
     "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} med \"{merkelapp}\"",
+    "message": "{nDocsTagged} com \"{tagName}\"",
     "description": "The title of the page for a docs tag"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "Dette er uutgitt dokumentasjon for {siteTitle} {versionLabel}-versjonen.",
+    "message": "Esta é uma documentação não lançada para {siteTitle} {versionLabel}.",
     "description": "The label used to tell the user that he's browsing an unreleased doc version"
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "Dette er dokumentasjon for {siteTitle} {versionLabel}, som ikke lenger vedlikeholdes.",
+    "message": "Esta é a documentação para {siteTitle} {versionLabel}, que não é mais mantida ativamente.",
     "description": "The label used to tell the user that he's browsing an unmaintained doc version"
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "For oppdatert dokumentasjon, se {latestVersionLink} ({versionLabel}).",
+    "message": "Para a documentação atualizada, veja: {latestVersionLink} ({versionLabel}).",
     "description": "The label used to tell the user to check the latest version"
   },
   "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "Siste version",
+    "message": "última versão",
     "description": "The label used for the latest version suggestion link label"
   },
   "theme.common.editThisPage": {
-    "message": "Rediger denne siden",
+    "message": "Editar essa página",
     "description": "The link label to edit the current page"
   },
   "theme.common.headingLinkTitle": {
-    "message": "Direkte link til overskrift",
+    "message": "Link direto para o título",
     "description": "Title for link to heading"
   },
   "theme.lastUpdated.atDate": {
-    "message": " på {dato}",
+    "message": " em {date}",
     "description": "The words used to describe on which date a page has been last updated"
   },
   "theme.lastUpdated.byUser": {
-    "message": " av {bruker}",
+    "message": " por {user}",
     "description": "The words used to describe by who the page has been last updated"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Sist oppdater{pådato}{avbruker}",
+    "message": "Última atualização {atDate}{byUser}",
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Tilbake til hovedmenyen",
+    "message": "← Voltar para o menu principal",
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versjoner",
+    "message": "Versions",
     "description": "The label for the navbar versions dropdown on mobile view"
   },
   "theme.common.skipToMainContent": {
-    "message": "Hopp til hovedinnhold",
+    "message": "Pular para o conteúdo principal",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "På denne siden",
+    "message": "Nessa página",
     "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.tags.tagsListLabel": {
-    "message": "Tagger:",
+    "message": "Marcadores:",
     "description": "The label alongside a tag list"
   },
   "theme.tags.tagsPageTitle": {
-    "message": "Tagger",
+    "message": "Marcadores",
     "description": "The title of the tag list page"
   },
-  "Tech Foundations": {
-    "message": "Informasjonsteknologi grunnkurs"
-  },
-  "An Integrated Tech Industry Foundations Course": {
-    "message": "Et integrert kurs i informasjonsteknologi"
-  },
   "Linux Foundations": {
-    "message": "Linux-grunnlag"
+    "message": "Fundações de Linux"
   },
   "Programming Foundations": {
-    "message": "Programmeringsgrunnlag"
+    "message": "Fundamentos de programação"
   },
   "Computing Foundations": {
-    "message": "Datagrunnlag"
+    "message": "Fundações de computação"
   },
   "Networking Foundations": {
-    "message": "Nettverksstiftelser"
+    "message": "Fundações de rede"
   },
   "Security Foundations": {
-    "message": "Sikkerhetsfundamenter"
+    "message": "Fundações de Segurança"
   }
 }

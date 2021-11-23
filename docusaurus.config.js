@@ -17,7 +17,7 @@ const config = {
   projectName: 'tech-foundations', // Usually your repo name.
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'no'],
+    locales: ['en', 'no', 'pt'],
   },
   presets: [
     [

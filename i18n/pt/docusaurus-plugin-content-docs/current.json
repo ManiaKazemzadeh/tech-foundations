@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Próximo",
+    "description": "The label for version current"
+  },
+  "sidebar.networkingSidebar.category.Linking Computers": {
+    "message": "Conectando computadores",
+    "description": "The label for category Linking Computers in sidebar networkingSidebar"
+  },
+  "sidebar.networkingSidebar.category.The Internet Protocol": {
+    "message": "O protocolo da Internet",
+    "description": "The label for category The Internet Protocol in sidebar networkingSidebar"
+  },
+  "sidebar.computingSidebar.category.Binary Code": {
+    "message": "Código binário",
+    "description": "The label for category Binary Code in sidebar computingSidebar"
+  },
+  "sidebar.linuxSidebar.category.Introduction to Linux": {
+    "message": "Introdução ao Linux",
+    "description": "The label for category Introduction to Linux in sidebar linuxSidebar"
+  },
+  "sidebar.programmingSidebar.category.Introduction to Programming": {
+    "message": "Introdução à Programação",
+    "description": "The label for category Introduction to Programming in sidebar programmingSidebar"
+  },
+  "sidebar.programmingSidebar.category.Control Flow": {
+    "message": "Controle de fluxo",
+    "description": "The label for category Control Flow in sidebar programmingSidebar"
+  },
+  "sidebar.securitySidebar.category.User Security": {
+    "message": "Segurança do usuário",
+    "description": "The label for category User Security in sidebar securitySidebar"
+  }
+}

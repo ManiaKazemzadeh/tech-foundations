@@ -5,7 +5,7 @@ import Translate, {translate} from '@docusaurus/Translate';
 
 const FeatureList = [
   {
-    title: 'Linux Foundations',
+    title: (<Translate>Linux Foundations</Translate>),
     Svg: require('../../static/img/penguin.svg').default,
     description: (
       <Translate>
@@ -15,7 +15,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Programming Foundations',
+    title: (<Translate>Programming Foundations</Translate>),
     Svg: require('../../static/img/programmer.svg').default,
     description: (
       <Translate>
@@ -25,7 +25,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Computing Foundations',
+    title: (<Translate>Computing Foundations</Translate>),
     Svg: require('../../static/img/abacus.svg').default,
     description: (
       <Translate>
@@ -35,7 +35,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Networking Foundations',
+    title: (<Translate>Networking Foundations</Translate>),
     Svg: require('../../static/img/network.svg').default,
     description: (
       <Translate>
@@ -45,7 +45,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Security Foundations',
+    title: (<Translate>Security Foundations</Translate>),
     Svg: require('../../static/img/firewall.svg').default,
     description: (
       <Translate>

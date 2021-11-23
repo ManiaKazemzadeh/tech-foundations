@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Fundações de tecnologia",
+    "description": "The title in the navbar"
+  },
+  "item.label.Programming": {
+    "message": "Programação",
+    "description": "Navbar item with label Programming"
+  },
+  "item.label.Linux": {
+    "message": "Linux",
+    "description": "Navbar item with label Linux"
+  },
+  "item.label.Computing": {
+    "message": "Informática",
+    "description": "Navbar item with label Computing"
+  },
+  "item.label.Networking": {
+    "message": "Networking",
+    "description": "Navbar item with label Networking"
+  },
+  "item.label.Security": {
+    "message": "Segurança",
+    "description": "Navbar item with label Security"
+  }
+}
