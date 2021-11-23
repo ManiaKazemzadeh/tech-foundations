@@ -77,6 +77,10 @@ const config = {
             label: 'Security',
           },
           {
+            type: 'docsVersionDropdown',
+            position: 'right',
+          },
+          {
             type: 'localeDropdown',
             position: 'right',
           },
